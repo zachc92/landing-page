@@ -133,3 +133,49 @@ body {
     text-align: right;
     font-weight: bold
 }
+
+.call-to-action {
+    background-color: #3882f6;
+    padding: 5%;
+    display: flex;
+    border-radius: 5px;
+}
+
+.call-left {
+    width: 75%;
+}
+
+.call-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+    margin-bottom: 5px;
+}
+
+.call-subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-top: 5px;
+}
+
+.call-right {
+    display: flex;
+    align-items: center;
+}
+
+.call-button {
+    font-size: 24px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: solid 2px #f9faf8;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 25px;
+    color: #f9faf8;
+    text-align: center;
+}
